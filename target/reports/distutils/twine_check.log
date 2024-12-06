@@ -1,0 +1,8 @@
+Checking 
+/Users/bhaarn/Documents/Personal/lecture/BITS/Code/Python_CI/pyb/target/dist/hel
+loworld-1.0.dev0/dist/helloworld-1.0.dev0-py3-none-any.whl: [33mPASSED with warnings[0m
+[33mWARNING [0m `long_description_content_type` missing. defaulting to `text/x-rst`.   
+Checking 
+/Users/bhaarn/Documents/Personal/lecture/BITS/Code/Python_CI/pyb/target/dist/hel
+loworld-1.0.dev0/dist/helloworld-1.0.dev0.tar.gz: [33mPASSED with warnings[0m
+[33mWARNING [0m `long_description_content_type` missing. defaulting to `text/x-rst`.   
